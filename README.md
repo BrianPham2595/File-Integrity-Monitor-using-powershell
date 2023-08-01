@@ -20,7 +20,7 @@ This project provides a simple File Integrity Monitor written in PowerShell. It 
 
 <p align="center">
 Flow Chart  <br/>
-  <img src="https://imgur.com/a/zYHJgBy" height="80%" width="80%"<br alt="Flow Chart" />
+  <img src="![](https://i.imgur.com/vipt9uc.png)" height="80%" width="80%"<br alt="Flow Chart" />
 
 
 <!--
